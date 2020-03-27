@@ -1,0 +1,11 @@
+[data-dpr='1'] .item-section {
+  font-size: 18px;
+}
+
+[data-dpr='2'] .item-section {
+  font-size: 36px;
+}
+
+[data-dpr='3'] .item-section {
+  font-size: 54px;
+}
